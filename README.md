@@ -7,7 +7,7 @@ A small offline-first PWA that shows one life lesson a day from Stoics, philosop
 - **Lesson of the day:** the same lesson all day, changing at local midnight. No lesson repeats until all of them have been shown.
 - **Next / Previous:** shuffles without repeats, so you see every lesson (in the current category) before any comes back. Swipe left or right, or use the arrow keys.
 - **Favorites:** tap the heart to save a lesson. Favorites are stored in `localStorage`.
-- **Category filter:** Stoic, Discipline, Mindset, Relationships, Purpose, Wisdom.
+- **Category filter:** Stoic, Discipline, Mindset, Relationships, Purpose, Wisdom, Eastern (Bruce Lee, Buddhism, Taoism, Zen, Confucianism, samurai and Indian philosophy).
 - **Share:** uses the Web Share API, or copies to the clipboard where sharing isn't supported.
 - **Installable and offline:** a service worker caches every asset.
 

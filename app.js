@@ -1,6 +1,6 @@
 'use strict';
 
-const CATEGORIES = ['All', 'Stoic', 'Discipline', 'Mindset', 'Relationships', 'Purpose', 'Wisdom'];
+const CATEGORIES = ['All', 'Stoic', 'Discipline', 'Mindset', 'Relationships', 'Purpose', 'Wisdom', 'Eastern'];
 const KEY_FAVS = 'dl:favorites';
 const KEY_DECKS = 'dl:decks';
 const KEY_FILTER = 'dl:filter';

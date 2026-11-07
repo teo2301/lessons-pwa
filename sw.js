@@ -1,7 +1,7 @@
 'use strict';
 
 // Bump this when you change any cached file so clients pick up the new version.
-const CACHE = 'daily-lessons-v3';
+const CACHE = 'daily-lessons-v4';
 
 const ASSETS = [
   './',
